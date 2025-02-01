@@ -1,0 +1,20 @@
+baseURL: https://blog.terraqueststudios.net/
+languageCode: en-us
+title: TerraQuest Studios Blog
+theme: hugo-PaperMod
+
+params:
+    ShowReadingTime: true
+
+    homeInfoParams:
+        Title: Hi there wave
+        Content: Welcome to my (wsor4035) blog, full of my ramblings....
+
+    socialIcons:
+        - name: Github
+          url: https://github.com/terraquest-studios
+
+    editPost:
+        URL: https://github.com/terraquest-studios/blog.terraqueststudios.net/content
+        Text: Suggest Changes
+        appendFilePath: true
