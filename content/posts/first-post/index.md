@@ -18,7 +18,7 @@ memeber, etc..... which in writting this all out is to much :p.
 
 ## This Blog
 
-Honestly I've been thinking about doing a blog for the longest time, however ive just been lazy. Recently I have been contributing to 
+Honestly I've been thinking about doing a blog for the longest time, however I've just been lazy. Recently I have been contributing to 
 [luanti's documentation efforts](https://github.com/luanti-org/dev.luanti.org) which lead to using [Hugo](https://gohugo.io/) and I quite 
 liked it. The experience of using it for the docs project, and some poking by a friend to actually make this pushed me over the edge into 
 executing on it.
