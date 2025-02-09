@@ -110,8 +110,8 @@ For more information, have a read of [this article](https://css-tricks.com/how-t
 by Mads Stoumann over on CSS-Tricks.
 
 ## The Future
-i'll be the first to admit that the whole implementation is a giant "hack" and I complemently would not blame you for not wanting to
-use it :). We ["recently"](https://caniuse.com/css-nesting) [^1] got [CSS nesting](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_nesting/Using_CSS_nesting) 
+I'll be the first to admit that the whole implementation is a giant "hack" and I complemently would not blame you for avoiding 
+using it :). We ["recently"](https://caniuse.com/css-nesting) [^1] got [CSS nesting](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_nesting/Using_CSS_nesting) 
 in across browsers which traditionally was a SASS feature, so how about mixins? Well the good news is that the CSS Working Group has an issue for it, 
 [w3c/csswg-drafts#9350](https://github.com/w3c/csswg-drafts/issues/9350) and has [resolved to adopt it](https://github.com/w3c/csswg-drafts/issues/9350#issuecomment-1939628591).
 For further reading I would recommend taking a peak at [this article](https://css.oddbird.net/sasslike/mixins-functions/) over on oddbird.net to get a good summary.
