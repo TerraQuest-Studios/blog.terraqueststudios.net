@@ -12,7 +12,7 @@ cover:
 ## CSS Mixins, What are they?
 
 Quick summary, CSS `mixins` (and `includes`) are a concept that comes from [SASS](https://sass-lang.com/). It allows you to deduplicate CSS, 
-essentianlly making your own functions that you can call when you are styling classes. An example of a mixin is as follows:
+essentially making your own functions that you can call when you are styling classes. An example of a mixin is as follows:
 
 ```scss
 @mixin my-mixin {
