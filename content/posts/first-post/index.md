@@ -11,10 +11,10 @@ cover:
 
 ## About Me
 
-Hey, Im [wsor(4035)](https://github.com/wsor4035/), a software dev that likes play with random ideas and learn new things. These days 
+Hey, I'm [wsor(4035)](https://github.com/wsor4035/), a software dev that likes play with random ideas and learn new things. These days 
 I spend a lot of time in the [Luanti Project](https://github.com/luanti-org/) being involved as an [ContentDb](https://content.minetest.net/) 
 editor, engine triager, Discord staff member, docs contributor, [mt-mods](https://github.com/mt-mods)/[mt-historical](https://github.com/mt-historical) 
-memeber, etc..... which in writting this all out is to much :p.
+member, etc..... which in writing this all out is to much :p.
 
 ## This Blog
 
