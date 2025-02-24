@@ -15,6 +15,6 @@ params:
           url: https://github.com/terraquest-studios
 
     editPost:
-        URL: https://github.com/terraquest-studios/blog.terraqueststudios.net/content
+        URL: https://github.com/TerraQuest-Studios/blog.terraqueststudios.net/tree/master/content
         Text: Suggest Changes
         appendFilePath: true
