@@ -1,6 +1,5 @@
 Grade A
 
-Why Hugo?
 mobile frameworks compared
 
 
